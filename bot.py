@@ -1,0 +1,1 @@
+token = "vk1.a.y1NzCRV9CGq48EQvByVaouFBzb-noRm5W_ufzkFp__snKOluuK8c5c9OvUTyRu3BAxBU8ZNJII-Q-yMbS__18EDPI0adeZfjziE2ni7XlFQB0Pfc28YrUIwPDVurJyZYyorrnk2DKSrwFTyMlbXTpAV-JNAONZCuXKcuDsTKxpcepNN7lZzLnTKfobRSVZqIfyBv6yVyTtCjOKh6god_Aw"
